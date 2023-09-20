@@ -1,7 +1,5 @@
 # Slot Machine Game in JavaScript (Node.js)
 
-![Slot Machine](slot-machine.png)
-
 A small solo project created in Summer 2023 - a simple slot machine game implemented in JavaScript using Node.js.
 
 ## Description
